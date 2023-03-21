@@ -1,0 +1,15 @@
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\bin\Debug\net6.0\modul5_1302213018.exe
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\bin\Debug\net6.0\modul5_1302213018.deps.json
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\bin\Debug\net6.0\modul5_1302213018.runtimeconfig.json
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\bin\Debug\net6.0\modul5_1302213018.dll
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\bin\Debug\net6.0\modul5_1302213018.pdb
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\modul5_1302213018.csproj.AssemblyReference.cache
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\modul5_1302213018.GeneratedMSBuildEditorConfig.editorconfig
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\modul5_1302213018.AssemblyInfoInputs.cache
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\modul5_1302213018.AssemblyInfo.cs
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\modul5_1302213018.csproj.CoreCompileInputs.cache
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\modul5_1302213018.dll
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\refint\modul5_1302213018.dll
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\modul5_1302213018.pdb
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\modul5_1302213018.genruntimeconfig.cache
+D:\mod_5\jurnal_mod5_1302213018\modul5_1302213018\modul5_1302213018\obj\Debug\net6.0\ref\modul5_1302213018.dll
